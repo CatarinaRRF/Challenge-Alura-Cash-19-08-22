@@ -63,5 +63,8 @@ Aqui se encontra resumido o que foi feito durante cada etapa
 
 ## Creditos
 * Challenge desenvolvido pelo Scuba Team da escola de tecnologia <a href='https://www.alura.com.br/'>Alura</a> <sup><img src='https://user-images.githubusercontent.com/105402331/187300705-229c3543-398f-41b5-9e23-44bbf5796f21.png' height=10px></sup>
-* Para encontrar outros projetos de Ciencia de dados acesse meu [GitHub](https://github.com/CatarinaRRF) <sup><img src='https://user-images.githubusercontent.com/105402331/187300705-229c3543-398f-41b5-9e23-44bbf5796f21.png' height=10px></sup>.
+
+<hr size=4px>
+
+ 
 

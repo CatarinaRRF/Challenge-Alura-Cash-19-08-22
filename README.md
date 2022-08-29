@@ -66,5 +66,7 @@ Aqui se encontra resumido o que foi feito durante cada etapa
 
 <hr size=4px>
 
- 
+<p align="center">
+ <a href='https://www.linkedin.com/public-profile'><img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' height=20px></a> <a href='https://www.kaggle.com/ccfreitas'><img src='https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png' height=20px></a>
+</p>
 

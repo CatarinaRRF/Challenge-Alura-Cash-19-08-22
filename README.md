@@ -1,10 +1,10 @@
 <h1 align="center">
 <h1 align="center">
   <br>
-  <img src="https://camo.githubusercontent.com/2d9e9ce090f6e85ab9241533a5129784f5e69aa6656cf49204b78fc995c99258/68747470733a2f2f692e696d6775722e636f6d2f6f7861623375752e706e67" alt="logo">
+  <img src="https://github.com/CatarinaRRF/Challenge-Alura-Cash-19-08-22/blob/main/media/logo_alura_cash.png" alt="logo">
 </h1>
 
-<h3 align="center">Challenge Dados - Alura Cash</h3>
+<h3 align="center">Challenge Dados 1° Edição - Alura Cash</h3>
 
 <p align="center">
     <a href="">
@@ -18,7 +18,7 @@
 <p align="center">
   <a href="#sobre">Sobre</a> •
   <a href="#metodologia">Metodologia</a> •
-  <a href="#arquivos">Arquivos</a>•
+  <a href="#resultados">Resultados</a> •
   <a href="#conclusão">Conclusão</a> •
   <a href="#creditos">Creditos</a>
   
@@ -30,20 +30,30 @@ O banco digital internacional chamado Alura Cash se encontra com um problema em 
 ## Metodologia
 O projeto será dividido entre 3 partes, que contemplaram as fases da pipeline de dados, sendo elas limpeza de dados, Análise Exploratória de Dados e Visualização de dados. 
 
-### Tecnologias
+### <i>Tecnologias</i>
 Desse modo, cada uma também utilizará de softwares mais adequados para sua realização.
 
 * <b>Limpeza de dados:</b> MySQL
 * <b>Análise Exploratória de Dados:</b> Jupyter Notebook e Bibliotecas Python 
 * <b>Visualização de dados:</b> Power BI 
 
-## Limpeza de Dados
+## Resultados
+Aqui se encontra resumido o que foi feito durante cada etapa
 
-## Análise Exploratória de Dados
+### <i>Limpeza de Dados</i>
+*
+*
 
-## Visualização de Dados
+### <i>Análise Exploratória de Dados</i>
+*
+*
+
+### <i>Visualização de Dados</i>
+*
+*
 
 ## Arquivos
+* Dados <i>"Crus"</i> <a href=''>Link</a>
 * Dados processados pós limpeza de dados <a href=''>Link</a>
 * Notebooks da Análise Exploratória de Dados <a href=''>Link</a>
 * Dashboard <a href=''>Link</a>

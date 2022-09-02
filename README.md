@@ -19,6 +19,7 @@
   <a href="#sobre">Sobre</a> •
   <a href="#metodologia">Metodologia</a> •
   <a href="#resultados">Resultados</a> •
+  <a href="#arquivos">Arquivos</a> •
   <a href="#conclusão">Conclusão</a> •
   <a href="#creditos">Creditos</a>
   
@@ -54,6 +55,7 @@ Aqui se encontra resumido o que foi feito durante cada etapa
 
 ## Arquivos
 * Dados <i>"Crus"</i> <a href='https://raw.githubusercontent.com/CatarinaRRF/Challenge-Alura-Cash-19-08-22/main/dados/dump-analise_risco-27-07-22.sql'>Link</a>
+* Dicionarios dos dados <a href='https://github.com/CatarinaRRF/Challenge-Alura-Cash-19-08-22/blob/main/dados/dicion%C3%A1rio_dados.md'>Link</a>
 * Dados processados pós limpeza de dados <a href=''>Link</a>
 * Notebooks da Análise Exploratória de Dados <a href=''>Link</a>
 * Dashboard <a href=''>Link</a>

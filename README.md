@@ -25,7 +25,9 @@
   
 </p>
 
+
 ## Sobre 
+
 O banco digital internacional chamado Alura Cash se encontra com um problema em que, recorrentemente, estão surgindo pessoas inadimplentes após a liberação de créditos. Por está razão, foi solicitada uma solução para diminuir as perdas financeiras geradas por pessoas mutuárias que não quitam suas dívidas. Sendo assim, solicitamos um conjunto de dados contendo as informações de clientes, da solicitação de empréstimo, do histórico de crédito, bem como se a pessoa mutuária é inadimplente ou não.
 
 ## Metodologia
@@ -36,6 +38,7 @@ Desse modo, cada uma também utilizará de softwares mais adequados para sua rea
 
 * <b>Limpeza de dados:</b> MySQL
 * <b>Análise Exploratória de Dados:</b> Jupyter Notebook e Bibliotecas Python 
+* <b>Modelagem dos Dados</b>: Biblioteca Python Sklearn
 * <b>Visualização de dados:</b> Power BI 
 
 ## Resultados
@@ -66,7 +69,7 @@ Aqui se encontra resumido o que foi feito durante cada etapa
 ## Creditos
 * Challenge desenvolvido pelo Scuba Team da escola de tecnologia <a href='https://www.alura.com.br/'>Alura</a> <sup><img src='https://user-images.githubusercontent.com/105402331/187300705-229c3543-398f-41b5-9e23-44bbf5796f21.png' height=10px></sup>
 
-<hr size=4px>
+<img src="https://github.com/CatarinaRRF/Challenge-Alura-Cash-19-08-22/blob/974dd832c3980dd107a36a4b6906b616bb7b71f2/media/hr_line_redme.png" alt="logo">
 
 <p align="center">
  <a href='https://www.linkedin.com/public-profile'><img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' height=20px></a> <a href='https://www.kaggle.com/ccfreitas'><img src='https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png' height=20px></a>

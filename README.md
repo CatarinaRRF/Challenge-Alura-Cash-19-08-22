@@ -1,3 +1,5 @@
+> <B>⚠️ Esse README ainda esta sob construção</B>
+
 <h1 align="center">
 <h1 align="center">
   <br>
@@ -25,13 +27,12 @@
   
 </p>
 
-
 ## Sobre 
 
 O banco digital internacional chamado Alura Cash se encontra com um problema em que, recorrentemente, estão surgindo pessoas inadimplentes após a liberação de créditos. Por está razão, foi solicitada uma solução para diminuir as perdas financeiras geradas por pessoas mutuárias que não quitam suas dívidas. Sendo assim, solicitamos um conjunto de dados contendo as informações de clientes, da solicitação de empréstimo, do histórico de crédito, bem como se a pessoa mutuária é inadimplente ou não.
 
 ## Metodologia
-O projeto será dividido entre 3 partes, que contemplaram as fases da pipeline de dados, sendo elas limpeza de dados, Análise Exploratória de Dados e Visualização de dados. 
+O projeto será dividido entre 4 partes, que contemplaram as fases da pipeline de dados, sendo elas limpeza, Análise Exploratória, Modelagem e Visualização dos dados. 
 
 ### <i>Tecnologias</i>
 Desse modo, cada uma também utilizará de softwares mais adequados para sua realização.
@@ -45,8 +46,20 @@ Desse modo, cada uma também utilizará de softwares mais adequados para sua rea
 Aqui se encontra resumido o que foi feito durante cada etapa
 
 ### <i>Limpeza de Dados</i>
+
+A limpeza de dados é o processo de corrigir ou remover dados incorretos, corrompidos, formatados incorretamente, duplicados ou incompletos em um conjunto de dados. Desse modo, foi identificado e corrigido os problemas encontrados no dataset da Alura Cash com a intenção de estruturar esses dados, de modo que, sejam consistentes e permitam uma análise autêntica ao requisitado pelas partes interessadas. Abaixo um resumo de quais foram essas mudanças e a justificativa para tais:
+
+<b>Tabela: informações de clientes</b>
+
+* Excluir linhas na chave primaria que possuem valores nulos 
+*
+
+<b>Tabela: Solicitação de empréstimo</b>
+
 *
 *
+
+<b><sup>Um changelog mais detalhado pode ser acessado em: <a href=''>link</a></sup></b>
 
 ### <i>Análise Exploratória de Dados</i>
 *
@@ -57,6 +70,9 @@ Aqui se encontra resumido o que foi feito durante cada etapa
 *
 
 ## Arquivos
+
+<img align="right" height="150" src="https://img.freepik.com/vetores-gratis/caixa-de-armazenamento-de-arquivamento-de-arquivos-de-gabinete-de-documentos_33099-829.jpg?w=740&t=st=1662167069~exp=1662167669~hmac=fb6f9c20366de7cfa78155d9e4e0219a230a9affa0fccec9c10875147c2d2c85">
+
 * Dados <i>"Crus"</i> <a href='https://raw.githubusercontent.com/CatarinaRRF/Challenge-Alura-Cash-19-08-22/main/dados/dump-analise_risco-27-07-22.sql'>Link</a>
 * Dicionarios dos dados <a href='https://github.com/CatarinaRRF/Challenge-Alura-Cash-19-08-22/blob/main/dados/dicion%C3%A1rio_dados.md'>Link</a>
 * Dados processados pós limpeza de dados <a href=''>Link</a>
@@ -64,6 +80,9 @@ Aqui se encontra resumido o que foi feito durante cada etapa
 * Dashboard <a href=''>Link</a>
 
 ## Conclusão
+Em linhas gerais, constatou-se que <b>Lorem ipsum dolor sit amet</b>. Verifica-se, portanto, <b>consectetur adipiscing elit</b>. Ademais, verifica-se <b>sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</b>.
+
+Cabe destacar ainda que Lorem ipsum dolor sit amet.
 
 
 ## Creditos

@@ -49,15 +49,36 @@ Aqui se encontra resumido o que foi feito durante cada etapa
 
 A limpeza de dados é o processo de corrigir ou remover dados incorretos, corrompidos, formatados incorretamente, duplicados ou incompletos em um conjunto de dados. Desse modo, foi identificado e corrigido os problemas encontrados no dataset da Alura Cash com a intenção de estruturar esses dados, de modo que, sejam consistentes e permitam uma análise autêntica ao requisitado pelas partes interessadas. Abaixo um resumo de quais foram essas mudanças e a justificativa para tais:
 
-<b>Tabela: informações de clientes</b>
+<b>Tabela: informações de clientes mutuários</b>
 
-* Excluir linhas na chave primaria que possuem valores nulos 
-*
+* Excluiu linhas no atributo 'person_id' que possui valores nulos, pois não podem existir dois clientes com o mesmo id;
+* Excluiu valores duplicados da coluna 'person_id';
+* Trasformou 'person_id' em chave primaria, pois é um campo com valores exclusivos;
+* Traduziu os atributos de inglês para português para facilitar a interpretação;
+* Trocou o tipo de dados da coluna `person_emp_length` de <b>double</b> para <b>int</b>, pois é um dado com números exatos. Outras colunas não apresentam o problema;
+* Foi identicado na coluna 'idade' a presença de clientes com idade igual a <b>123 anos</b> e <b>144 anos</b>, o que não é possivel, visto que a pessoa mais velha da história chegou até 122 anos<sup><a href='https://pt.wikipedia.org/wiki/Lista_das_pessoas_mais_velhas_do_mundo#:~:text=O%20t%C3%ADtulo%20de%20pessoa%20mais,118%20anos%20e%20210%20dias.'> [1]</a></sup> . Esses dados forma substituidos pela média de idade no Brasil que é ≅ 77 anos <sup><a href='https://agenciabrasil.ebc.com.br/geral/noticia/2021-11/expectativa-de-vida-no-brasil-sobe-para-768-anos#:~:text=A%20expectativa%20de%20vida%20no,%2C%20at%C3%A9%2076%2C6%20anos.'>[2]</a></sup>
+* Foi identicado na coluna 'tempo_de_serviço' a presença de clientes com tempo trabalhando igula a <b>123 anos</b>, o que não é possivel, visto que a pessoa mais velha da história chegou até 122 e que o funcionário mais antigo do mundo trabalhou pro 84 anos <sup><a href='https://www.istoedinheiro.com.br/funcionario-mais-antigo-do-mundo-e-brasileiro-e-completou-100-anos/'>[3]</a></sup> . Esses dados forma substituidos pelo maxímo tempo de trabalho dado por esse dado anterior, sendo ele 83 anos.
+* Foram corrigidos Dados Nulos 
 
 <b>Tabela: Solicitação de empréstimo</b>
 
-*
-*
+* Excluiu linhas no atributo 'loan_id' que possui valores nulos, pois não podem existir dois clientes com o mesmo id;
+* Excluiu valores duplicados da coluna 'loan_id';
+* Trasformou 'loan_id' em chave primaria, pois é um campo com valores exclusivos;
+* Traduziu os atributos de inglês para português para facilitar a interpretação;
+* Trocou o tipo de dados da coluna 'loan_status' de <b>int</b> para <b>BIT(1)</b>, pois é um dado do tipo booleano. Outras colunas não apresentam o problema;
+* Foram corrigidos Dados Nulos 
+
+
+<b>Tabela: Histórico Referentes ao Banco</b>
+
+* Excluiu linhas no atributo 'cb_id' que possui valores nulos, pois não podem existir dois clientes com o mesmo id;
+* Excluiu valores duplicados da coluna 'cb_id';
+* Trasformou 'cb_id' em chave primaria, pois é um campo com valores exclusivos;
+* Traduziu os atributos de inglês para português para facilitar a interpretação;
+* Foram corrigidos Dados Nulos 
+
+Após a estruturação do banco de dados, as informações foram concatenadas e exportadas para um arquivo csv com a intenção de facilitar a análise exploratória de dados na proxima etapa.
 
 <b><sup>Um changelog mais detalhado pode ser acessado em: <a href=''>link</a></sup></b>
 

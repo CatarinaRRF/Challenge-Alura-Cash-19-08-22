@@ -94,8 +94,7 @@ Após a estruturação do banco de dados, as informações foram concatenadas e 
 
 <img align="right" height="150" src="https://img.freepik.com/vetores-gratis/caixa-de-armazenamento-de-arquivamento-de-arquivos-de-gabinete-de-documentos_33099-829.jpg?w=740&t=st=1662167069~exp=1662167669~hmac=fb6f9c20366de7cfa78155d9e4e0219a230a9affa0fccec9c10875147c2d2c85">
 
-* Dados <i>"Crus"</i> <a href='https://raw.githubusercontent.com/CatarinaRRF/Challenge-Alura-Cash-19-08-22/main/dados/dump-analise_risco-27-07-22.sql'>Link</a>
-* Dicionarios dos dados <a href='https://github.com/CatarinaRRF/Challenge-Alura-Cash-19-08-22/blob/main/dados/dicion%C3%A1rio_dados.md'>Link</a>
+* Dados <i>"Crus"</i> <a href='https://raw.githubusercontent.com/CatarinaRRF/Challenge-Alura-Cash-19-08-22/main/dados'>Link</a>
 * Dados processados pós limpeza de dados <a href=''>Link</a>
 * Notebooks da Análise Exploratória de Dados <a href=''>Link</a>
 * Dashboard <a href=''>Link</a>
